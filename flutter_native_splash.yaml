@@ -1,0 +1,14 @@
+# flutter_native_splash-development.yaml
+flutter_native_splash:
+  color: "#FFFFFF"
+  image: assets/images/SPLASHSCREEN (1).png
+  branding: assets/images/backLight.png
+  color_dark: "#151615"
+  image_dark: assets/images/SPLASHSCREEN_NIGHT.png
+  branding_dark: assets/images/backDark.png
+
+  android_12:
+    image: assets/images/SPLASHSCREEN (1).png
+    icon_background_color: "#FFFFFF"
+    image_dark: assets/images/SPLASHSCREEN_NIGHT.png
+    icon_background_color_dark: "#151615"
